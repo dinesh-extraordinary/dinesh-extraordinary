@@ -1,3 +1,5 @@
+![257063659-282abd4c-0f9e-47e0-a904-0a651dd02996](https://github.com/dinesh-extraordinary/dinesh-extraordinary/assets/146986107/f162ac2a-142b-4ae1-8fa9-fbee0ae96f76)
+
 <h1 align="center">Hi 👋, I'm Dinesh Garusinghege</h1>
 <h3 align="center">A Full-Stack Software Engineer from Sri Lanka</h3>
 
